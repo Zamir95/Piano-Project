@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body{text-align:center}
+body  {
+  background-image: url("image.gif");
+}
+</style>
+  <meta charset="UTF-8">
+  <title>Piano</title>
+  <link rel="stylesheet" href="piano.css">
+  <script src="piano.js"></script> 
+  <script src="https://tonejs.github.io/build/Tone.js"></script>
+  <div id="copyright">
+  <ul><li>&copy; Zamir Lalji</li></ul>
+  </div>
+</head>
+
+<body>
+  <header>
+    <h1>Piano Keyboard</h1>
+  </header>
+  <span class=".keyboard" id="keyboard"></span>
+</body>
+</html>
