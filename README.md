@@ -1,2 +1,2 @@
 # Piano-Project
-This filecontains a hardcoded piano class that I made with sound and background
+This filecontains a hard coded piano class that I made with sound and background
